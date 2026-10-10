@@ -139,7 +139,7 @@
     "resolve.exports": "^2.0.2",
     "rollup-plugin-dts": "^6.1.1",
     "rollup-plugin-esbuild": "^6.1.1",
-    "rollup-plugin-license": "^3.5.3",
+    "rollup-plugin-license": "^3.7.0",
     "sass": "^1.81.0",
     "sass-embedded": "^1.81.0",
     "sirv": "^3.0.2",
